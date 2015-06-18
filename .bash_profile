@@ -59,13 +59,6 @@ function bak(){
 }
 
 
-#AWS Settings
-export AWS_ACCESS_KEY_ID=AKIAIOOKA7QA3VE7LVPA
-export AWS_SECRET_ACCESS_KEY=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
-export AWS_X509_CERT_PATH=~/.ssh/kantar_certificate.pem
-export AWS_X509_KEY_PATH=~/.ssh/kantar_key.pem
-export AWS_ACCOUNT_ID='302555941386'
-
 # ruby-on-rails requirements
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
